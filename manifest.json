@@ -1,0 +1,17 @@
+{
+  "manifest_version": 2,
+  "name": "Freeze tab Title and Favicon",
+  "version": "1.0.0",
+
+  "description": "Freeze tab Title and Favicon",
+  "icons": {
+    "128": "logo_128px.png"
+  },
+
+  "author": "Francois-Guillaume Ribreau",
+  "background": {
+    "scripts": ["background.js"]
+  },
+  "permissions": ["tabs", "contextMenus", "http://*/", "https://*/"],
+  "commands": {}
+}
