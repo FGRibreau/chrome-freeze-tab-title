@@ -1,6 +1,8 @@
 # Freeze Tab Title and Favicon
 
-No more tab title notifications like `Inbox (3)`, `Slack | ! Username | 1 new item`.
+No more distraction from tab bar titles & favicon. 
+New slack message `Slack | ! Username | 1 new item`, new email `Inbox (3)`, new tweet notification are a thing of the past. 
+I want to go there when **I** want, not when they ask me to 😌
 
 ### Before
 
